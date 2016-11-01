@@ -12,7 +12,7 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
     => "Bmfy f xywnsl!"
 ~~~~
 
-
+---
 
 #Project 2: Stock Picker
 
@@ -23,7 +23,7 @@ Implement a method #stock_picker that takes in an array of stock prices, one for
     => [1,4]  # for a profit of $15 - $3 == $12
 ~~~
 
-
+---
 
 #Project 3: Substrings
 
